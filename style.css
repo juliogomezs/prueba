@@ -1,0 +1,11 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	font-size: 14px;
+	background-color: #000;
+}
+header{
+	padding: 20px 0;
+	color: transparent;
+	background-image: url(img/home-header-bg.jpg);
+}
